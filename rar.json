@@ -1,0 +1,25 @@
+	{
+		"version": 2018052900,
+		"url": "https://bubu1.eu/rip/rar_2018.xml",
+		"title": "Rock am Ring 2018",
+		"start": "2018-06-01",
+		"end": "2018-06-04",
+		"metadata": {
+			"links": [
+				{
+					"url": "http://rock-am-ring.com",
+					"title": "Website"
+				},
+				{
+					"url": "https://assets.mlk-festivals.com/attachment/2104/file/a2f52bac1a862a392b23784036d86d61.pdf",
+					"title": "Besucherplan",
+					"type": "application/pdf"
+				},
+				{
+					"url": "https://assets.mlk-festivals.com/attachment/2115/file/d130c3bbc722fb0b7f9120bb86c05bcf.pdf",
+					"title": "Park & Campingflächen",
+					"type": "application/pdf"
+				}
+			]
+		}
+	}
